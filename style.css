@@ -1,0 +1,7 @@
+#map {
+    height: 100pc;
+}
+
+.world_tiles {
+    image-rendering: pixelated;
+}
