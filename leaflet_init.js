@@ -13,3 +13,4 @@ L.tileLayer('tiles/{z}/{x}/{y}.png', {
     attribution: 'Bruh.',
     className: 'world_tiles'
 }).addTo(map);
+
