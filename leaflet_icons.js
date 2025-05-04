@@ -342,3 +342,167 @@ var i_M10K = L.icon({
     popupAnchor:  [-3, -76]
 });
 
+var i_raven = L.icon({
+    iconUrl: 'icons/unique/raven.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_doubt = L.icon({
+    iconUrl: 'icons/unique/doubt.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_hogcaller = L.icon({
+    iconUrl: 'icons/unique/hogcaller.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+
+var i_igor = L.icon({
+    iconUrl: 'icons/unique/igor.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+
+var i_statue = L.icon({
+    iconUrl: 'icons/unique/statue.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+
+var i_note = L.icon({
+    iconUrl: 'icons/unique/note.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_shield = L.icon({
+    iconUrl: 'icons/unique/shield.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_weapon = L.icon({
+    iconUrl: 'icons/unique/weapon.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_armor = L.icon({
+    iconUrl: 'icons/unique/armor.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_key = L.icon({
+    iconUrl: 'icons/unique/key.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_hotdog = L.icon({
+    iconUrl: 'icons/unique/hotdog.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_stone5 = L.icon({
+    iconUrl: 'icons/stones/stone5.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_stone20 = L.icon({
+    iconUrl: 'icons/stones/stone20.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_stone50 = L.icon({
+    iconUrl: 'icons/stones/stone50.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_stone100 = L.icon({
+    iconUrl: 'icons/stones/stone100.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_stone200 = L.icon({
+    iconUrl: 'icons/stones/stone200.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_stone900 = L.icon({
+    iconUrl: 'icons/stones/stone900.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
+
+var i_stone2700 = L.icon({
+    iconUrl: 'icons/stones/stone2700.png',
+    iconSize:     [64, 64],
+    shadowSize:   [64, 64],
+    iconAnchor:   [32, 32],
+    shadowAnchor: [32, 32],
+    popupAnchor:  [-3, -76]
+});
