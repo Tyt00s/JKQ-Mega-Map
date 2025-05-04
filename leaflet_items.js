@@ -207,7 +207,7 @@ L.marker([-2823, 5922], {icon: i_raven}).addTo(map); // Raven #23
 L.marker([-2205, 5420], {icon: i_marker}).addTo(map); // Mud Oile
 L.marker([-2114, 5363], {icon: i_stone20}).addTo(map); // Grain of Wisdom
 L.marker([-2047, 5646], {icon: i_C2}).addTo(map); // Cold Whetstone +2
-L.marker([-638, 7296], {icon: i_stoned200}).addTo(map); // Gobbet of Wisdom
+L.marker([-638, 7296], {icon: i_stone200}).addTo(map); // Gobbet of Wisdom
 L.marker([-1272, 5754], {icon: i_H2}).addTo(map); // Hot Whetstone +2
 L.marker([-1873, 6917], {icon: i_armor}).addTo(map); // Frog Set (LV3)
 L.marker([-1385, 5458], {icon: i_C3}).addTo(map); // Cold Whetstone +3
